@@ -1,19 +1,22 @@
 # Compresor de Imagenes Online
+Para utilizar el script tan solo debes subir todos estos archivos a tu servidor y listo!
 
-This is a Javascript-based online image compressor. No server-side required!
+Ya tienes funcionando el C.I.O
 
-Check the working demo [here](http://www.icmadigital.com/compresor)!
+Hecho con Javascript. No necesita funcionar del lado del servidor!
+
+Demo [Aqui](http://www.icmadigital.com/compresor)!
 
 
-# Libraries
+# Librerias
 
-This project includes code from different libraries:
+Este proyecto funciona con diferentis librerias de terceros:
 
 + [jRange](https://github.com/nitinhayaran/jRange), which is licensed under the MIT license.
 + [Image Comparison Slider](https://codyhouse.co/gem/css-jquery-image-comparison-slider/)
 + [J-I-C](https://github.com/brunobar79/J-I-C), which is licensed under the MIT license.
 
-# License
+# Licencia
 
     Copyright 2017 Ivan Ch
     www.icmadigital.com
