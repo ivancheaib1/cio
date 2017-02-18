@@ -1,10 +1,9 @@
-# Image Compressor Online
+# Compresor de Imagenes Online
 
 This is a Javascript-based online image compressor. No server-side required!
 
 Check the working demo [here](http://www.icmadigital.com/compresor)!
 
-![screenshot]
 
 # Libraries
 
