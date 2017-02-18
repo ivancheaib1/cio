@@ -10,7 +10,7 @@ Demo [Aqui](http://www.icmadigital.com/compresor)!
 
 # Librerias
 
-Este proyecto funciona con diferentis librerias de terceros:
+Este proyecto funciona con diferentes librerias de terceros:
 
 + [jRange](https://github.com/nitinhayaran/jRange), which is licensed under the MIT license.
 + [Image Comparison Slider](https://codyhouse.co/gem/css-jquery-image-comparison-slider/)
